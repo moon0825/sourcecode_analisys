@@ -1,3 +1,4 @@
+// 3개의 클래스와 1개의 enum을 가지고 있음
 package kr.ac.jbnu.se.tetris;
 
 import java.awt.Color;
