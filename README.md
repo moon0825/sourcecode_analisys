@@ -1,5 +1,9 @@
+
+
 # sourcecode_analisys
 소스코드 분석 코드
+# 2023.09.19 교수님 원본 class diagram
+![Class_Diagram](https://github.com/moon0825/sourcecode_analisys/assets/66240957/2e037b92-c451-441f-9f3d-aa29bf54e9d7)
 
 ## 선정 과제분석 및 개선
 ### 1. Tetris 분석 및 관련 Q&A
